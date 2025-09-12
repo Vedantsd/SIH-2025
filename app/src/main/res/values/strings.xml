@@ -1,0 +1,48 @@
+<resources>
+
+        <string name="app_name">Farmora</string>
+
+        <!-- ... other existing strings ... -->
+
+        <string name="button_logout">Logout</string>  <!-- <<<< ADD THIS LINE -->
+
+        <!-- ... other existing strings like profile titles, etc. ... -->
+
+        <!-- Add other string resources as needed -->
+
+
+
+
+    <!-- Navigation & Titles -->
+    <string name="farmer_dashboard_title">Farmer Dashboard</string>
+    <string name="vendor_dashboard_title">Vendor Dashboard</string>
+    <string name="role_selection_title">Select Your Role</string>
+    <string name="profile_title_farmer">Farmer Profile</string>
+    <string name="profile_title_vendor">Vendor Profile</string>
+
+    <!-- Actions -->
+    <string name="action_voice_support">Voice Support</string>
+    <string name="action_change_language">Change Language</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Login/Register -->
+    <string name="label_email_username">Email or Username</string>
+    <string name="label_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="prompt_no_account">Don\'t have an account?</string>
+    <string name="button_register_here">Register Here</string>
+    <string name="label_full_name">Full Name / Contact Person</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_business_name">Business Name (Optional)</string>
+    <string name="label_gst_number">GST Number (Optional)</string>
+    <string name="button_register">Register</string>
+
+    <!-- General -->
+    <string name="info_no_features_available">No features available at the moment.</string>
+    <string name="button_sell_my_crops">Sell My Crops</string>
+    <string name="button_buy_agri_inputs">Buy Agri Inputs</string>
+    <string name="FarMora" />
+    <string name="Farmora" />
+
+    <!-- Add all other user-visible strings here -->
+</resources>
